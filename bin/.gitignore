@@ -1,4 +1,6 @@
 /AirlineRegistration.class
+/AnimalFarm.class
+/BirthdayReminder.class
 /ChangeCalculator.class
 /Code4Life.class
 /DizzyTortoise.class
@@ -10,7 +12,6 @@
 /TortoiseInSpace.class
 /dot.class
 /numberSorter.class
-/birthdayReminder.class
-/BirthdayReminder.class
-/farm.class
-/AnimalFarm.class
+/random.class
+/SecretMessageBox.class
+/Horoscope.class
